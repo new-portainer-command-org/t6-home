@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: t6-base
+  namespace: default
+data:
+  k: v

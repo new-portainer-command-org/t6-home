@@ -1,8 +1,0 @@
-# Adopted by Portainer-Command exactly as it ran in the cluster, before Command managed it.
-apiVersion: v1
-data:
-    hand: applied
-kind: ConfigMap
-metadata:
-    name: t6-adopt3
-    namespace: default
